@@ -26,28 +26,28 @@ Selected for a national accelerator for emerging AI leaders. Built a jet engine 
 system with a 7-person team on NASA's C-MAPSS dataset, shipped a live Streamlit dashboard, and
 communicated model tradeoffs to non-technical audiences.
 
+**AI & Computer Vision Engineer — Alfred University** · *Jan 2026 – May 2026 · Alfred, NY*
+Built and deployed a YOLOv8 + DeepSort real-time multi-person tracking pipeline hitting **80%
+detection accuracy** with persistent identity tracking across full-length video.
+
 **Founder — [Kibenki](https://kibenki.com)** · *May 2024 – Aug 2025 · Zanzibar, Tanzania*
 Fintech providing emergency liquidity to SME workers excluded from credit markets. Raised
 **4,000,000 TZS in UNDP seed capital**; backed by Starthub Africa and the Funguo Program (UNDP,
 EU, UK Aid). Owned product vision, user research, roadmap, regulatory compliance, and tax
 strategy.
 
+**Program Manager & Co-Founder — The Kajengwa Project** · *Jan 2025 – Jul 2025*
+Designed and ran a 6-month technology literacy program for **50+ underserved youth** across 5
+curriculum tracks, on a 100% donor-funded budget.
+
 **Applied AI Engineering Fellow — CodePath** · *Mar 2025 – May 2025*
 Engineered **7 production-ready AI applications** across 5 modules using the Claude and OpenAI
 APIs, RAG pipelines, and agentic workflows — 100% of milestones completed. Architected
 human-in-the-loop systems with safety guardrails and risk-aware decision logic.
 
-**AI & Computer Vision Engineer — Alfred University** · *Jan 2025 – May 2025*
-Built and deployed a YOLOv8 + DeepSort real-time multi-person tracking pipeline hitting **80%
-detection accuracy** with persistent identity tracking across full-length video.
-
 **Software Engineering Apprentice — Headstarter AI** · *Jul 2024 – Oct 2024*
 Mentored by Y Combinator-backed founders who have collectively raised $50M+. Led go-to-market
 for a personal project: **1,000+ waitlist users and $1,000 in revenue within weeks.**
-
-**Program Manager & Co-Founder — The Kajengwa Project** · *Jan 2025 – Jul 2025*
-Designed and ran a 6-month technology literacy program for **50+ underserved youth** across 5
-curriculum tracks, on a 100% donor-funded budget.
 
 ---
 

@@ -1,169 +1,213 @@
+<div align="center">
+
 # William Frank Mahunda
 
-**Computer Science student, fintech founder, and AI engineer.** I build AI products end to end
-— from user discovery and go-to-market through RAG pipelines, agentic systems, and computer
-vision.
+**Computer Science @ Alfred University '29** &nbsp;·&nbsp; **Founder @ Kibenki** &nbsp;·&nbsp; **AI4ALL Ignite Fellow**
 
-I founded a fintech startup in Zanzibar that raised UNDP seed capital to get emergency
-liquidity to SME workers locked out of traditional credit. Since then I've shipped 10+ AI
-applications and worked through AI4ALL, CodePath, Goldman Sachs, and McKinsey programs. I care
-about the whole arc of a product — who it's for, whether it works, and whether anyone can
-actually use it.
+<p><i>I build AI products end to end — from user discovery and go-to-market<br>
+through RAG pipelines, agentic systems, and computer vision.</i></p>
 
-📍 Alfred, NY · 🎓 Alfred University CS '29, Presidential Scholarship
+<a href="https://william-frank-mahunda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/william-frank-mahunda"><img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:wjf3@alfred.edu"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 
-> 🎯 **Seeking Summer 2027 internships in product management and AI / software engineering.**
-> The fastest way to see how I work is [Jet Engine Predictive
-> Maintenance](https://github.com/William-franklyn/Jet-Engine-Predictive-Maintenance-ML) — it
-> ships with its full methodology written down, negative results included.
+<br><br>
 
----
+<img src="https://img.shields.io/badge/📍_Alfred,_NY-f3f4f6?style=flat-square&labelColor=f3f4f6&color=f3f4f6" alt="Alfred, NY">
+<img src="https://img.shields.io/badge/🎯_Open_to_Summer_2027_Internships-1d4ed8?style=flat-square" alt="Open to Summer 2027 internships">
+<img src="https://img.shields.io/badge/Product_Management_·_AI_/_SWE-374151?style=flat-square" alt="PM and AI/SWE">
 
-## Experience
+</div>
 
-**AI4ALL Ignite Fellow** · *Jun 2026 – Aug 2026*
-Selected for a national accelerator for emerging AI leaders. Built a jet engine RUL prediction
-system with a 7-person team on NASA's C-MAPSS dataset, shipped a live Streamlit dashboard, and
-communicated model tradeoffs to non-technical audiences.
+<br>
 
-**AI & Computer Vision Engineer — Alfred University** · *Jan 2026 – May 2026 · Alfred, NY*
-Built and deployed a YOLOv8 + DeepSort real-time multi-person tracking pipeline hitting **80%
-detection accuracy** with persistent identity tracking across full-length video.
+I founded a fintech startup in Zanzibar that raised UNDP seed capital to get emergency liquidity
+to SME workers locked out of traditional credit. Since then I've shipped 10+ AI applications and
+worked through the AI4ALL, CodePath, Goldman Sachs, and McKinsey programs. I care about the whole
+arc of a product — who it's for, whether it works, and whether anyone can actually use it.
 
-**Founder — [Kibenki](https://kibenki.com)** · *May 2024 – Aug 2025 · Zanzibar, Tanzania*
-Fintech providing emergency liquidity to SME workers excluded from credit markets. Raised
-**4,000,000 TZS in UNDP seed capital**; backed by Starthub Africa and the Funguo Program (UNDP,
-EU, UK Aid). Owned product vision, user research, roadmap, regulatory compliance, and tax
-strategy.
+<br>
 
-**Program Manager & Co-Founder — The Kajengwa Project** · *Jan 2025 – Jul 2025*
-Designed and ran a 6-month technology literacy program for **50+ underserved youth** across 5
-curriculum tracks, on a 100% donor-funded budget.
+## 💼 Experience
 
-**Applied AI Engineering Fellow — CodePath** · *Mar 2025 – May 2025*
-Engineered **7 production-ready AI applications** across 5 modules using the Claude and OpenAI
-APIs, RAG pipelines, and agentic workflows — 100% of milestones completed. Architected
-human-in-the-loop systems with safety guardrails and risk-aware decision logic.
+<table>
+<tr>
+<td width="32%" valign="top">
+<b>AI4ALL Ignite Fellow</b><br>
+<sub>AI4ALL · Jun – Aug 2026</sub>
+</td>
+<td valign="top">
+Selected for a national accelerator for emerging AI leaders. Built a jet engine RUL prediction system with a 7-person team on NASA's C-MAPSS dataset, shipped a live Streamlit dashboard, and communicated model tradeoffs to non-technical audiences.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>AI &amp; Computer Vision Engineer</b><br>
+<sub>Alfred University · Jan – May 2026</sub>
+</td>
+<td valign="top">
+Built and deployed a YOLOv8 + DeepSort real-time multi-person tracking pipeline hitting <b>80% detection accuracy</b> with persistent identity tracking across full-length video.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Founder</b><br>
+<sub><a href="https://kibenki.com">Kibenki</a> · May 2024 – Aug 2025 · Zanzibar</sub>
+</td>
+<td valign="top">
+Fintech providing emergency liquidity to SME workers excluded from credit markets. Raised <b>4,000,000 TZS in UNDP seed capital</b>; backed by Starthub Africa and the Funguo Program (UNDP, EU, UK Aid). Owned product vision, user research, roadmap, regulatory compliance, and tax strategy.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Program Manager &amp; Co-Founder</b><br>
+<sub>The Kajengwa Project · Jan – Jul 2025</sub>
+</td>
+<td valign="top">
+Designed and ran a 6-month technology literacy program for <b>50+ underserved youth</b> across 5 curriculum tracks, on a 100% donor-funded budget.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Applied AI Engineering Fellow</b><br>
+<sub>CodePath · Mar – May 2025</sub>
+</td>
+<td valign="top">
+Engineered <b>7 production-ready AI applications</b> across 5 modules using the Claude and OpenAI APIs, RAG pipelines, and agentic workflows — 100% of milestones completed. Architected human-in-the-loop systems with safety guardrails and risk-aware decision logic.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<b>Software Engineering Apprentice</b><br>
+<sub>Headstarter AI · Jul – Oct 2024</sub>
+</td>
+<td valign="top">
+Mentored by Y Combinator-backed founders who have collectively raised $50M+. Led go-to-market for a personal project: <b>1,000+ waitlist users and $1,000 in revenue within weeks.</b>
+</td>
+</tr>
+</table>
 
-**Software Engineering Apprentice — Headstarter AI** · *Jul 2024 – Oct 2024*
-Mentored by Y Combinator-backed founders who have collectively raised $50M+. Led go-to-market
-for a personal project: **1,000+ waitlist users and $1,000 in revenue within weeks.**
+<br>
 
----
+## 🚀 Selected work
 
-## Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [Jet Engine Predictive Maintenance](https://github.com/William-franklyn/Jet-Engine-Predictive-Maintenance-ML)
-`Python` `PyTorch` `scikit-learn` `Streamlit`
+### ✈️ [Jet Engine Predictive Maintenance](https://github.com/William-franklyn/Jet-Engine-Predictive-Maintenance-ML)
 
-Predicts the remaining useful life of turbofan engines from NASA C-MAPSS sensor data. Five
-documented rounds of model selection — linear baseline → tuned random forest → rolling temporal
-features → LSTM — on a leakage-free, engine-grouped split, with the negative results kept in
-the write-up alongside the wins.
+<sub>`Python` `PyTorch` `scikit-learn` `Streamlit`</sub>
 
-The deployed LSTM lands at **RMSE 16.19, R² 0.85**, beating the tuned random forest by ~2.5
-cycles. Every figure is regenerated from an export script rather than hand-typed, and the
-numbers were re-verified on three independent machines. The dashboard routes each prediction
-between the LSTM and the random forest depending on available history. *AI4ALL Ignite team
-project.*
+Predicts remaining useful life of turbofan engines from NASA C-MAPSS sensor data. Five documented rounds of model selection on a leakage-free, engine-grouped split — with the negative results kept in the write-up alongside the wins.
 
-### [Real-Time Person Tracking](https://github.com/William-franklyn/real-time-person-tracking)
-`Python` `YOLOv8` `DeepSort` `OpenCV` `FFmpeg`
+**RMSE 16.19 · R² 0.85** — verified on three independent machines.
 
-Tracking pipeline for autonomous robotics that identifies and follows a designated individual
-in real time, with persistent IDs across occlusion, annotated video output, and a live FPS
-overlay.
+</td>
+<td width="50%" valign="top">
 
-### Vantage AI
-`Python` `LLM APIs`
+### 👁️ [Real-Time Person Tracking](https://github.com/William-franklyn/real-time-person-tracking)
 
-AI platform built for a financial advisory firm — taken end to end from client needs and
-product concept through to working software, applying LLMs to financial services workflows.
+<sub>`Python` `YOLOv8` `DeepSort` `OpenCV` `FFmpeg`</sub>
 
-### Workbox
-`Full-stack`
+Tracking pipeline for autonomous robotics that identifies and follows a designated individual in real time — persistent IDs across occlusion, annotated video output, and a live FPS overlay.
 
-Productivity and workflow application designed and shipped independently, covering frontend,
-backend, and the product decisions across the full development lifecycle.
+**80% detection accuracy** on full-length video.
 
-### [Data Visualization Library](https://github.com/William-franklyn/data-visualization-library)
-`JavaScript`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Open-source, beginner-friendly charting library. Designed the public API, wrote the docs, and
-published it for community use.
+### 📊 Vantage AI
 
-### [Music Recommendation System](https://github.com/William-franklyn/Music-recommendation-system-with-AI)
-`Python` `ML`
+<sub>`Python` `LLM APIs`</sub>
 
-Preference-modeling recommendation engine that personalizes music suggestions from user taste
-profiles.
+AI platform built for a financial advisory firm — taken end to end from client needs and product concept through to working software, applying LLMs to financial services workflows.
 
-### [CIFAR-10 Image Classifier](https://github.com/William-franklyn/cifar_10_machine_learning_project)
-`Python` `CNNs`
+</td>
+<td width="50%" valign="top">
 
-Convolutional neural network covering the full loop — data preprocessing, training, and
-evaluation.
+### 🗂️ Workbox
 
----
+<sub>`Full-stack`</sub>
 
-## Stack
+Productivity and workflow application designed and shipped independently, covering frontend, backend, and the product decisions across the full development lifecycle.
 
-**Languages**
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=white)
+**Also:** [Data Visualization Library](https://github.com/William-franklyn/data-visualization-library) — open-source JS charting library with a designed public API &nbsp;·&nbsp; [Music Recommendation System](https://github.com/William-franklyn/Music-recommendation-system-with-AI) — preference-modeling recommender &nbsp;·&nbsp; [CIFAR-10 Classifier](https://github.com/William-franklyn/cifar_10_machine_learning_project) — CNN covering the full training loop
 
-**AI & ML**
+<br>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-1f2937?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1f2937?style=flat-square&logo=scikitlearn&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude%20API-1f2937?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-1f2937?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1f2937?style=flat-square&logo=langchain&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-1f2937?style=flat-square&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-1f2937?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1f2937?style=flat-square&logo=numpy&logoColor=white)
+## 🛠️ Stack
 
-RAG · Vector Search · Embeddings · Agentic AI · Prompt Engineering · Deep Learning · CNNs ·
-Computer Vision · Human-in-the-Loop Systems · Responsible AI
+<div align="center">
 
-**Engineering**
+<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-1f2937?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=white">
 
-![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1f2937?style=flat-square&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-1f2937?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-1f2937?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Claude_API-1f2937?style=flat-square&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI_API-1f2937?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1f2937?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-1f2937?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-1f2937?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-1f2937?style=flat-square&logo=numpy&logoColor=white">
 
-REST APIs · CI/CD · Testing · Agile/Scrum
+<img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-1f2937?style=flat-square&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-1f2937?style=flat-square&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=white">
 
-**Product**
+</div>
 
-Product Discovery · User Research · Roadmapping · Go-to-Market · Customer Acquisition ·
-Stakeholder Management · Capital Raising · Regulatory Compliance
+<table>
+<tr>
+<td width="33%" valign="top"><b>AI &amp; ML</b><br><sub>RAG · Vector Search · Embeddings · Agentic AI · Prompt Engineering · Deep Learning · CNNs · Computer Vision · Human-in-the-Loop · Responsible AI</sub></td>
+<td width="33%" valign="top"><b>Engineering</b><br><sub>REST APIs · CI/CD · Testing · Agile/Scrum</sub></td>
+<td width="33%" valign="top"><b>Product</b><br><sub>Product Discovery · User Research · Roadmapping · Go-to-Market · Customer Acquisition · Stakeholder Management · Capital Raising · Regulatory Compliance</sub></td>
+</tr>
+</table>
 
----
+<br>
 
-## Programs & recognition
+## 🏅 Programs & recognition
 
-| | |
-|---|---|
-| **Goldman Sachs Possibilities Series** | Competitively selected — investment banking, asset management, fintech (2026) |
-| **McKinsey Forward Scholar** | Structured problem-solving and executive communication (2024) |
-| **Aspire Leadership Fellow** | Harvard faculty-led; community impact project; 1,000+ professional network (2024) |
-| **Best Innovative Student of the Year** | Recognized for innovation in academic and project work |
-| **Top 5 Hackathon Winner** | Best Fresh Innovative Project in Health Tech (2023) |
-| **Top 10 Young Innovators in Tanzania** | EAC Innovator SprintUp Program |
+<table>
+<tr>
+<td valign="top"><b>Goldman Sachs Possibilities Series</b><br><sub>Competitively selected — investment banking, asset management, fintech · 2026</sub></td>
+<td valign="top"><b>McKinsey Forward Scholar</b><br><sub>Structured problem-solving and executive communication · 2024</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Aspire Leadership Fellow</b><br><sub>Harvard faculty-led; community impact project; 1,000+ network · 2024</sub></td>
+<td valign="top"><b>Best Innovative Student of the Year</b><br><sub>Innovation in academic and project work</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>Top 5 Hackathon Winner</b><br><sub>Best Fresh Innovative Project in Health Tech · 2023</sub></td>
+<td valign="top"><b>Top 10 Young Innovators in Tanzania</b><br><sub>EAC Innovator SprintUp Program</sub></td>
+</tr>
+</table>
 
----
+<br>
 
-## Reach me
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=vercel&logoColor=white)](https://william-frank-mahunda.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-frank-mahunda)
-[![Email](https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=maildotru&logoColor=white)](mailto:wjf3@alfred.edu)
+### 📫 Let's talk
+
+I'm looking for **Summer 2027 internships in product management and AI / software engineering.**
+
+<a href="https://william-frank-mahunda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/william-frank-mahunda"><img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:wjf3@alfred.edu"><img src="https://img.shields.io/badge/Email-1f2937?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+
+</div>

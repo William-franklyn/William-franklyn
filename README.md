@@ -167,5 +167,3 @@ Stakeholder Management · Capital Raising · Regulatory Compliance
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=flat-square&logo=vercel&logoColor=white)](https://william-frank-mahunda.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-frank-mahunda)
 [![Email](https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=maildotru&logoColor=white)](mailto:wjf3@alfred.edu)
-
-<sub>*"With a burning desire."*</sub>

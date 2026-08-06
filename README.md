@@ -13,6 +13,7 @@ through RAG pipelines, agentic systems, and computer vision.</i></p>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/NVIDIA_Summer_Bridge-76b900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Summer Bridge Learning Experience">
 <img src="https://img.shields.io/badge/📍_Alfred,_NY-f3f4f6?style=flat-square&labelColor=f3f4f6&color=f3f4f6" alt="Alfred, NY">
 <img src="https://img.shields.io/badge/🎯_Open_to_Summer_2027_Internships-1d4ed8?style=flat-square" alt="Open to Summer 2027 internships">
 <img src="https://img.shields.io/badge/Product_Management_·_AI_/_SWE-374151?style=flat-square" alt="PM and AI/SWE">
@@ -22,9 +23,10 @@ through RAG pipelines, agentic systems, and computer vision.</i></p>
 <br>
 
 I founded a fintech startup in Zanzibar that raised UNDP seed capital to get emergency liquidity
-to SME workers locked out of traditional credit. Since then I've shipped 10+ AI applications and
-worked through the AI4ALL, CodePath, Goldman Sachs, and McKinsey programs. I care about the whole
-arc of a product — who it's for, whether it works, and whether anyone can actually use it.
+to SME workers locked out of traditional credit. Since then I've shipped 10+ AI applications, was
+selected for NVIDIA's invitation-only Summer Bridge Learning Experience, and worked through the
+AI4ALL, CodePath, Goldman Sachs, and McKinsey programs. I care about the whole arc of a product —
+who it's for, whether it works, and whether anyone can actually use it.
 
 <br>
 
@@ -185,16 +187,20 @@ Productivity and workflow application designed and shipped independently, coveri
 
 <table>
 <tr>
+<td valign="top"><b>⚡ NVIDIA Summer Bridge Learning Experience</b><br><sub>Invitation-only early-talent program — NVIDIA's products, culture, and accelerated computing ecosystem, with engineer-led sessions and mentorship · 2026</sub></td>
 <td valign="top"><b>Goldman Sachs Possibilities Series</b><br><sub>Competitively selected — investment banking, asset management, fintech · 2026</sub></td>
+</tr>
+<tr>
 <td valign="top"><b>McKinsey Forward Scholar</b><br><sub>Structured problem-solving and executive communication · 2024</sub></td>
-</tr>
-<tr>
 <td valign="top"><b>Aspire Leadership Fellow</b><br><sub>Harvard faculty-led; community impact project; 1,000+ network · 2024</sub></td>
-<td valign="top"><b>Best Innovative Student of the Year</b><br><sub>Innovation in academic and project work</sub></td>
 </tr>
 <tr>
+<td valign="top"><b>Best Innovative Student of the Year</b><br><sub>Innovation in academic and project work</sub></td>
 <td valign="top"><b>Top 5 Hackathon Winner</b><br><sub>Best Fresh Innovative Project in Health Tech · 2023</sub></td>
+</tr>
+<tr>
 <td valign="top"><b>Top 10 Young Innovators in Tanzania</b><br><sub>EAC Innovator SprintUp Program</sub></td>
+<td valign="top"></td>
 </tr>
 </table>
 

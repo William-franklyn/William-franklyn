@@ -2,7 +2,7 @@
 
 # William Frank Mahunda
 
-**Computer Science @ Alfred University '28** &nbsp;·&nbsp; **Founder @ Kibenki** &nbsp;·&nbsp; **AI4ALL Ignite Fellow**
+**Computer Science @ Alfred University '29** &nbsp;·&nbsp; **Founder @ Kibenki** &nbsp;·&nbsp; **AI4ALL Ignite Fellow**
 
 <p><i>I build AI products end to end — from user discovery and go-to-market<br>
 through RAG pipelines, agentic systems, and computer vision.</i></p>
